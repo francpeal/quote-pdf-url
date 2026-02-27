@@ -81,4 +81,4 @@ Febrero 2026
 
 ## 📝 Licencia
 
-Uso interno Motorex - Grupo Tekiio
+Uso interno Motorex - Grupo Tekiio# quote-pdf-url
